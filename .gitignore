@@ -43,6 +43,7 @@ firestore-debug.log*
 database-debug.log*
 storage-debug.log*
 ui-debug.log*
+lib/firebase.ts
 
 # typescript
 *.tsbuildinfo
