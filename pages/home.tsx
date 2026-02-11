@@ -2,11 +2,11 @@
 
 import { TooltipProvider } from "@/components/ui/tooltip"
 
-import { BackgroundGlow } from "./components/background-glow"
-import { CtaSection } from "./components/cta-section"
-import { FeaturedProjects } from "./components/featured-projects"
-import { HeroSection } from "./components/hero-section"
-import { WorkExperience } from "./components/work-experience"
+import { BackgroundGlow } from "@/components/home/background-glow"
+import { CtaSection } from "@/components/home/cta-section"
+import { FeaturedProjects } from "@/components/home/featured-projects"
+import { HeroSection } from "@/components/home/hero-section"
+import { WorkExperience } from "@/components/home/work-experience"
 
 export default function HomePage() {
   return (
