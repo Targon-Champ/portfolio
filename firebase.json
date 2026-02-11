@@ -36,7 +36,7 @@
     "bucket": "portfolio-4d70d.firebasestorage.app"
   },
   "hosting": {
-    "public": "public",
+    "public": "out",
     "ignore": [
       "firebase.json",
       "**/.*",
